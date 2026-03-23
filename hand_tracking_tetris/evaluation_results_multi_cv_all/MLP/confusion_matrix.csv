@@ -1,0 +1,6 @@
+,fist,open_hand,thumb_down,thumb_left,thumb_right
+fist,1199,0,0,0,1
+open_hand,0,1200,0,0,0
+thumb_down,0,0,1200,0,0
+thumb_left,0,0,0,1200,0
+thumb_right,0,0,0,0,1200
