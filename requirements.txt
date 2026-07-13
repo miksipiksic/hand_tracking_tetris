@@ -1,0 +1,24 @@
+# Computer vision
+opencv-python
+mediapipe
+
+# Machine learning
+scikit-learn
+xgboost
+joblib
+
+# Game
+pygame
+
+# Screen capture (gesture screenshot utility)
+pyautogui
+
+# Data & visualization
+numpy
+pandas
+matplotlib
+seaborn
+
+# Diagram generation (game/diagram.py; also needs the Graphviz system binaries).
+# The README diagrams in docs/generate_diagrams.py use matplotlib and do NOT need this.
+graphviz
